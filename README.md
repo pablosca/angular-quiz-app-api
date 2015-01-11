@@ -1,4 +1,6 @@
-# angular-quiz-app-api
-REST API for angular-quiz-app (github.com/pablosca/angular-quiz-app)
+angular-quiz-app-api
+====================
 
+RESTful API for http://github.com/pablosca/angular-quiz-app
 
+Developed with NodeJS, using Express, Passport and MongoDB.
