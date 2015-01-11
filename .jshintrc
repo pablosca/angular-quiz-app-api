@@ -1,0 +1,14 @@
+{
+    "boss": true,
+    "browser": true,
+    "curly": true,
+    "eqeqeq": true,
+    "evil": false,
+    "expr": true,
+    "onevar": true,
+    "regexdash": true,
+    "sub": true,
+    "trailing": true,
+    "white": true,
+    "wsh": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "quiz-api",
+  "version": "1.0.0",
+  "description": "Restful API for a quiz app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/server.js"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "mongoose": "^3.6.20",
+    "passport": "^0.2.1",
+    "passport-http": "^0.2.2",
+    "underscore": "^1.7.0"
+  },
+  "license": "ISC"
+}
